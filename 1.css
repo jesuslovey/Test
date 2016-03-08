@@ -1,0 +1,15 @@
+body{margin: 0;padding: 0;}
+#box{
+	width: 500px;
+	height: 500px;
+	background-color: #ddd;
+	margin:20px auto 0;
+}
+#box div{
+	width:150px;
+	height:150px;
+	margin:8px;
+	background-color: green;
+	float:left;
+	border-radius: 10%;
+}
